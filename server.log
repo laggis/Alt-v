@@ -1,0 +1,20 @@
+[22:56:31] alt:V Server 11.4 (release)
+[22:56:31] Starting alt:V Server on 0.0.0.0:7788
+[22:56:31] Loading resource chat
+[22:56:31] Loaded resource chat
+[22:56:31] Loading resource freeroam
+[22:56:31] Loaded resource freeroam
+[22:56:31] Required server permissions:
+[22:56:31] Optional server permissions:
+[22:56:31] Starting HTTP server on 0.0.0.0:7788
+[22:56:31] Main thread started (ThreadId: 19628)
+[22:56:31] Colshape thread started (ThreadId: 23324)
+[22:56:31] EntityStreamer thread started (ThreadId: 22968)
+[22:56:31] Sync thread started (ThreadId: 14212)
+[22:56:31] Console thread started (ThreadId: 24164)
+[22:56:31] Network thread started (ThreadId: 22736)
+[22:56:31] Server started
+[22:56:33] Stopping resource chat
+[22:56:33] Stopping resource freeroam
+[22:56:33] Stopped resource freeroam
+[22:56:33] Stopped resource chat
